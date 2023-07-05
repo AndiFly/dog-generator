@@ -1,2 +1,1 @@
 # dog-generator
-# citytemp
