@@ -35,6 +35,10 @@ img {
   margin-top: 5%;
 }
 button {
+  margin-top: 1em;
   height: 3em;
-  width: 5em
+  width: 6em
+}
+input{
+  text-align: center;
 }
